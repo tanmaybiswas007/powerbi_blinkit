@@ -1,4 +1,4 @@
-# powerbi_blinkit
+# Blinkit Dashbaord made by Power BI
 
 ![img1](https://github.com/tanmaybiswas007/powerbi_blinkit/blob/main/Blinkit-yellow-rounded.jpeg)
 
