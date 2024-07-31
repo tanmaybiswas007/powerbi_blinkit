@@ -21,4 +21,6 @@ Requirement Gathering/ Business Requirements
 * Dashboard / Report Development 
 * Insights Generation
 
+Power BI Dashboard: 
+-
  ![img1](https://github.com/tanmaybiswas007/powerbi_blinkit/blob/main/Blinkit%20Dashboard.jpg)
