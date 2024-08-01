@@ -29,6 +29,8 @@ Business Insights:
 -
 * Total Sales by Fat Content:
 
+![img1](https://github.com/tanmaybiswas007/powerbi_blinkit/blob/b62500f5e448fe1d94cdccb114121f35b3d54140/Q1%20total%20sales%20by%20fat%20content.jpg)
+
   Objective:
 
   Evaluate the impact of fat content on total sales.
@@ -37,6 +39,8 @@ Business Insights:
   Chart Type: Donut Chart.
 
 * Total Sales by Item Type:
+
+![img1](https://github.com/tanmaybiswas007/powerbi_blinkit/blob/b62500f5e448fe1d94cdccb114121f35b3d54140/Q2%20Sales%20by%20item%20type.jpg)
 
   Objective:
 
@@ -47,6 +51,8 @@ Business Insights:
 
 * Fat Content by Outlet for Total Sales:
 
+![img1](https://github.com/tanmaybiswas007/powerbi_blinkit/blob/b62500f5e448fe1d94cdccb114121f35b3d54140/Q3%20Fat%20Content%20by%20Outlet%20for%20Total%20Sales.jpg)
+
   Objective:
 
   Compare total sales across different outlets segmented by fat content.
@@ -56,6 +62,8 @@ Business Insights:
 
 * Total Sales by Outlet Establishment:
 
+![img1](https://github.com/tanmaybiswas007/powerbi_blinkit/blob/b62500f5e448fe1d94cdccb114121f35b3d54140/Q4%20Total%20Sales%20by%20Outlet%20Establishment.jpg)
+
   Objective:
 
   Assess how the age or type of outlet establishment influences total sales.
@@ -63,6 +71,8 @@ Business Insights:
   Chart Type: Line Chart.
 
 * Sales by Outlet Size:
+
+![img1](https://github.com/tanmaybiswas007/powerbi_blinkit/blob/b62500f5e448fe1d94cdccb114121f35b3d54140/Q5%20Sales%20by%20Outlet%20Size.jpg)
 
   Objective:
 
@@ -72,6 +82,8 @@ Business Insights:
 
 * Sales by Outlet Location:
 
+![img1](https://github.com/tanmaybiswas007/powerbi_blinkit/blob/b62500f5e448fe1d94cdccb114121f35b3d54140/Q6%20Sales%20by%20Outlet%20Location.jpg)
+
   Objective:
 
   Analyze the geographical distribution of sales across various locations.
@@ -79,6 +91,8 @@ Business Insights:
   Chart Type: Funnel Map
 
 * All Metrics by Outlet Type:
+
+![img1](https://github.com/tanmaybiswas007/powerbi_blinkit/blob/b62500f5e448fe1d94cdccb114121f35b3d54140/Q7%20All%20Metrics%20by%20Outlet%20Type.jpg)
 
   Objective: Deliver a comprehensive overview of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) segmented  
   by outlet type.
