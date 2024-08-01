@@ -62,7 +62,7 @@ Business Insights:
 
 * Total Sales by Outlet Establishment:
 
-![img1](https://github.com/tanmaybiswas007/powerbi_blinkit/blob/b62500f5e448fe1d94cdccb114121f35b3d54140/Q4%20Total%20Sales%20by%20Outlet%20Establishment.jpg)
+![img1](https://github.com/tanmaybiswas007/powerbi_blinkit/blob/7ec029f9ea077d5bda7edb3fdb6df72a957864d0/Q4%20Total%20Sales%20by%20Outlet%20Establishment.jpg))
 
   Objective:
 
@@ -82,7 +82,7 @@ Business Insights:
 
 * Sales by Outlet Location:
 
-![img1](https://github.com/tanmaybiswas007/powerbi_blinkit/blob/b62500f5e448fe1d94cdccb114121f35b3d54140/Q6%20Sales%20by%20Outlet%20Location.jpg)
+![img1](https://github.com/tanmaybiswas007/powerbi_blinkit/blob/7ec029f9ea077d5bda7edb3fdb6df72a957864d0/Q6%20Sales%20by%20Outlet%20Location.jpg.jpg)
 
   Objective:
 
