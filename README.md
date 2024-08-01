@@ -24,3 +24,64 @@ Requirement Gathering/ Business Requirements
 Power BI Dashboard: 
 -
  ![img1](https://github.com/tanmaybiswas007/powerbi_blinkit/blob/main/Blinkit%20Dashboard.jpg)
+
+Business Insights:
+-
+* Total Sales by Fat Content:
+
+  Objective:
+
+  Evaluate the impact of fat content on total sales.
+  Additional KPI Metrics: Examine how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+
+  Chart Type: Donut Chart.
+
+* Total Sales by Item Type:
+
+  Objective:
+
+  Determine the performance of various item types in terms of total sales.
+  Additional KPI Metrics: Examine how other KPIs (Average Sales, Number of Items, Average Rating) vary with item type.
+
+  Chart Type: Bar Chart.
+
+* Fat Content by Outlet for Total Sales:
+
+  Objective:
+
+  Compare total sales across different outlets segmented by fat content.
+  Additional KPI Metrics: Examine how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+
+  Chart Type: Stacked Column Chart.
+
+* Total Sales by Outlet Establishment:
+
+  Objective:
+
+  Assess how the age or type of outlet establishment influences total sales.
+
+  Chart Type: Line Chart.
+
+* Sales by Outlet Size:
+
+  Objective:
+
+  Analyze the correlation between outlet size and total sales.
+
+  Chart Type: Donut/ Pie Chart.
+
+* Sales by Outlet Location:
+
+  Objective:
+
+  Analyze the geographical distribution of sales across various locations.
+
+  Chart Type: Funnel Map
+
+* All Metrics by Outlet Type:
+
+  Objective: Deliver a comprehensive overview of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) segmented  
+  by outlet type.
+
+  Chart Type: Matrix Card.
+
