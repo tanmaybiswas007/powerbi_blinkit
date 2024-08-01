@@ -62,7 +62,7 @@ Business Insights:
 
 * Total Sales by Outlet Establishment:
 
-![img1](https://github.com/tanmaybiswas007/powerbi_blinkit/blob/7ec029f9ea077d5bda7edb3fdb6df72a957864d0/Q4%20Total%20Sales%20by%20Outlet%20Establishment.jpg))
+![img1](https://github.com/tanmaybiswas007/powerbi_blinkit/blob/7ec029f9ea077d5bda7edb3fdb6df72a957864d0/Q4%20Total%20Sales%20by%20Outlet%20Establishment.jpg)
 
   Objective:
 
@@ -94,8 +94,9 @@ Business Insights:
 
 ![img1](https://github.com/tanmaybiswas007/powerbi_blinkit/blob/b62500f5e448fe1d94cdccb114121f35b3d54140/Q7%20All%20Metrics%20by%20Outlet%20Type.jpg)
 
-  Objective: Deliver a comprehensive overview of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) segmented  
-  by outlet type.
+  Objective: 
+  
+  Deliver a comprehensive overview of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) segmented   by outlet type.
 
   Chart Type: Matrix Card.
 
